@@ -1,5 +1,5 @@
 # card-recognition
 
-JDK 11
-img -> 636x1166
-first args -> path
+JDK 11 </br>
+img -> 636x1166 </br>
+first args -> path </br>
